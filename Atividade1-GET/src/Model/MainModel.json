@@ -1,0 +1,9 @@
+{
+    "ROTA PRINCIPAL": "http://localhost:3000",
+    "EXERCICIO 1": "http://localhost:3000/execicio01",
+    "EXERCICIO 2": "http://localhost:3000/execicio02",
+    "EXERCICIO 3": "http://localhost:3000/execicio03",
+    "EXERCICIO 4": "http://localhost:3000/execicio04",
+    "EXERCICIO 5": "http://localhost:3000/execicio05",
+    "EXERCICIO 6": "http://localhost:3000/execicio06"
+}
